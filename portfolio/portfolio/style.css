@@ -1,0 +1,241 @@
+.navbar-brand{
+    color: black;
+}
+.navbar-nav .nav-link {
+    color: black;
+  }
+.bgimage {
+    height: 100vh;
+    background: url('images/background2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    width: 100%;
+}
+.hr-label {
+    border: none;
+    height: 3px;
+    background-color: #a6d344;
+    margin: 20px 0;
+}
+.about-image {
+    background-color: #f2f2f2;
+}
+.resume-label {
+    position: relative;
+    left: 200px;
+}
+
+.skill-label {
+    background-color: #eaf2f8;
+}
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #83e983;
+}
+.servicesText:hover {
+    border: 1px solid #80cd80;
+}
+  
+
+.hero_title {
+    text-align: left;
+    font-size: 4.0rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.text p {
+    margin: 5px 0;
+    text-align: right;
+    font-size: 25px;
+}
+
+.text .label {
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 5px;
+    font-size: 25px;
+}
+
+.imageAboutPage {
+    width: 300%;
+}
+
+.text-center {
+    color:rgb(111, 108, 105)
+}
+  
+#certificates .certificate-img {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 20px auto;
+  }
+
+  #education .ssc-img {
+    width: 225px;
+    height: 65px;
+    position: relative;
+    top: -0px;
+    left: 45px;
+  }
+  
+  #education .inter-img {
+    width: 220px;
+    height: 70px;
+    position: relative;
+    left: 50px;
+    top: -3px;
+  }
+  
+  #education .btech-img {
+    width: 300px;
+    height: 73px;
+    position: relative;
+    top: -4px;
+    left: -5px;
+  }
+  
+  .ssc-info {
+    text-align: left;
+    margin-top: 10px;
+  }
+  
+  .ssc-info h3 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: 12px;
+    left: -25px;
+  }
+  .ssc-info h4 {
+    font-size: 15px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    position: relative;
+    left: 40px;
+    top: 13px;
+  }
+  
+  .ssc-info p {
+    margin: 5px 0;
+    position: relative;
+    left: 40px;
+    top: 13px;
+  }
+  .ssc-label {
+    font-weight: bold;
+
+  }
+  .inter-info {
+    text-align: left;
+    margin-top: 10px;
+  }
+  
+  .inter-info h3 {
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    left: 53px;
+    top: 6px;
+    
+  }
+  .inter-info h4 {
+    font-size: 15px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    position: relative;
+    top: 8px;
+    left: 52px;
+  }
+  
+  .inter-info p {
+    margin: 5px 0;
+    position: relative;
+    top: 6px;
+    left: 52px;
+  }
+  .inter-label {
+    font-weight: bold;
+
+  }
+
+  .btech-info {
+    text-align: left;
+    margin-top: 10px;
+  }
+  
+  .btech-info h3 {
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    left: 63px;
+    top: 2px;
+    
+    
+  }
+  .btech-info h4 {
+    font-size: 15px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    position: relative;
+    top: 5px;
+    left: 15px;
+  }
+  
+  .btech-info p {
+    margin: 5px 0;
+    position: relative;
+    top: 3px;
+    left: 15px;
+  }
+  .btech-label {
+    font-weight: bold;
+
+  }
+.contact-label {
+    position: relative;
+    left: 176px;
+}
+  
+  
+.navbarScroll.navbarDark {
+    background-color: rgb(180, 170, 170);
+}
+.social-icons {
+    font-size: 30px;
+    cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+    color: #e49266;
+}
+.fab {
+    color: #f6f0f0;
+}
+#footer {
+    background-color: #808080;
+    text-align: center;
+}
